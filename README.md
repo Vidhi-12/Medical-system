@@ -14,3 +14,4 @@ This is a website used for online medicines. It includes only front-end. This we
 * HTML5
 * JQuery libraries
 * Font libraries
+* XAMPP
